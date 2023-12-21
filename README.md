@@ -1,35 +1,56 @@
-### Hi there 👋 I'm Devendra Maurya
-<h2 align="center">
-I'm a Hybrid Developer💻!
-</h2> 
-I am a Hybrid developer. I want to use my full development
-skill also want to improve skill for making best quality Application..
+👋 Hello World! I'm Devendra Maurya, a passionate Flutter developer on a mission to create beautiful and performant cross-platform applications.
 
-### 🤝 Connect with me:
+🚀 **About Me:**
+- 💻 Flutter enthusiast with a focus on building delightful user experiences.
+- 🌐 Cross-platform app development advocate using Flutter to create apps for iOS, Android, and beyond.
+- 🎨 UI/UX design aficionado with an eye for detail and a passion for creating pixel-perfect interfaces.
+- 🌱 Always learning and exploring new technologies to stay at the cutting edge of mobile development.
 
-<a href="https://www.linkedin.com/in/devendra-maurya-b639261aa"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/devendramaurya456/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://devendra-maurya.web.app/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💼 **Professional Experience:**
+- 🔧 Currently working on *Danieli Corus* in *RV Solutions Pvt Ltd* - Danieli Corus is a leading technology supplier for the liquid phase of integrated steelmaking and its application is
+for Travel Authorization and Travel Expenses.
+- 🏢 *Syview Smart Solutions Pvt Ltd* Contributed to *TabletShablet* is an online medical service management system.
+I Collaborated with project managers to select ambitious, but realistic coding milestones for pre-release software
+project development.
+*E-moz* is a multi-vendor E-commerce app. Cart Wishlist, Map, Address, and Order Management are the modules of
+this project.
+I Pioneered new methods of code review to incorporate a wider range of voices. Worked well in a team setting,
+providing support and guidance.
+*Delarea* is a healthcare application. In this application user can save his/her health preferences and it offers foods
+according to the user preferences. I Demonstrated a high level of initiative and creativity while tackling difficult
+tasks.
 
-## 🔭 I'm currently working on
+🛠️ **Skills:**
+- Flutter & Dart
+- UI/UX Design
+- Firebase
+- State Management (Provider, Bloc)
+- RESTful APIs
+- Git & GitHub
 
-- E-commerce Application 
-- Food Delivery App
+📚 **Education:**
+- 🎓 AKTU - BTech
 
-## 🌱 I'm a Student
+🌐 **Connect with Me:**
+- 🐦 [Twitter](https://twitter.com/Devendra7897430)
+- 📷 [Instagram](https://www.instagram.com/devendra_pbh/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/devendra-maurya-b639261aa/)
+- 🌐 [Personal Website/Blog](https://devendra-maurya.web.app/)
 
-- Pursuing BTech from BSSITM Lucknow
+🤝 **Let's Collaborate:**
+- 👨‍💻 Open to collaboration on exciting Flutter projects.
+- 📧 Reach out to me at *devendramaurya456@gmail.com*.
 
-## 💼 Technical Skills
+🚴 **Hobbies:**
+- 🎸 Playing guitar
+- 📚 Reading about the latest tech trends
+- 🌄 Exploring new hiking trails
 
-Flutter, Java, Kotlin, Firebase, Android
+👩‍💻 **Fun Fact:**
+Did you know that I once built a Flutter app in a weekend? Passion and coffee were the secret ingredients!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  </p>
+🚢 **Projects:**
+- ELD - ELD is US US-based project. Which is for Track Truck Drivers.
+- Mate - Mate is a Dating application.
 
+🙏 Thanks for visiting my GitHub profile! Let's code something amazing together! 🚀
